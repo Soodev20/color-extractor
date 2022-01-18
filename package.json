@@ -1,0 +1,19 @@
+{
+  "name": "color-picker",
+  "version": "1.0.0",
+  "description": "Pick your color up!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "picker",
+    "colorPicker",
+    "color"
+  ],
+  "author": "soodev20",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
